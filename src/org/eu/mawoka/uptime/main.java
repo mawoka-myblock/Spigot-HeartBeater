@@ -28,7 +28,6 @@ public class main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getServer().getPluginManager().registerEvents(new HeartBeater(), this);
         System.out.println("Succesfully started HeartBeater by https://mawoka.eu.org");
         createCustomConfig();
         System.out.println(customConfig.getBoolean("Hello"));
