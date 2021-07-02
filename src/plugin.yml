@@ -1,0 +1,5 @@
+name: Uptime-HeartBeat
+version: 0.0.1
+author: Mawoka
+main: org.eu.mawoka.uptime.main
+api-version: 1.16

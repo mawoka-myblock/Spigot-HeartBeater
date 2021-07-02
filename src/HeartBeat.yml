@@ -1,0 +1,3 @@
+Url: https://google.com
+Time: 2 # The time between the requests in Minutes
+ExpectedHttpCode: 200
